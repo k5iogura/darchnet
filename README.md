@@ -1,2 +1,2 @@
-# pydark implementation darknet subset by pytorch
+# darchnet : implementation darknet subset by pytorch
 
